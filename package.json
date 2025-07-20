@@ -13,7 +13,10 @@
   "dependencies": {
     "@whiskeysockets/baileys": "^6.5.0",
     "axios": "^1.10.0",
+<<<<<<< HEAD
     "cors": "^2.8.5",
+=======
+>>>>>>> f357ce8858df0b90610c5dcbefef8e7f9185d56a
     "dotenv": "^17.2.0",
     "express": "^5.1.0",
     "qrcode-terminal": "^0.12.0"
